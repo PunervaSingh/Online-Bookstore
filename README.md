@@ -24,7 +24,7 @@
 
 ***Backend*** : Flask, Jinja
 
-***Dtabase*** : SQLite
+***Database*** : SQLite
 
 ***API*** : Razorpay
 
